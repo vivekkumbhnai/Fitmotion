@@ -1,0 +1,3360 @@
+/******************************************************* 1800px **********************************************************/
+@media (min-width:1800px) {
+    .container {
+        max-width: 1670px;
+    }
+}
+
+@media (min-width:1801px) {
+    .container {
+        max-width: 1670px;
+        padding: 0 10px;
+    }
+}
+
+@media screen and (min-width: 1801px) {
+    .container {
+        max-width: 1670px;
+        padding: 0 10px;
+    }
+}
+
+@media (max-width:1800px) {
+
+    .banner_title2 h2 {
+        font-size: 160px;
+    }
+
+    button.gesundheit_button,
+    button.das_unsere.btn-form-submit {
+        width: 480px;
+        height: 70px;
+        font-size: 22px;
+    }
+
+    div#counter {
+        top: 38%;
+        left: 13.6%;
+    }
+
+    .we_fit_man_text {
+        max-width: 722px;
+    }
+
+    .gewinnspiel_leyer_1 {
+        padding: 90px 70px;
+    }
+
+    .analyse_list {
+        padding-top: 100px;
+        max-width: 600px;
+    }
+
+    .food_img {
+        top: -10px;
+        right: -50%;
+        z-index: -1;
+    }
+
+    .accordion {
+        width: calc(100% - 20px);
+        padding-left: 100px;
+    }
+
+    .vereinbaren_title {
+        font-size: 65px;
+    }
+
+    .beratungstermin_vereinbaren {
+        margin-right: -34px;
+        margin-left: 0px;
+    }
+
+    button.beratungstermin_btn.btn-form-submit {
+        height: 60px;
+        font-size: 22px;
+    }
+
+    .footer_fitmotion h2 {
+        font-size: 330px;
+    }
+
+    .footer_box {
+        justify-content: space-between;
+    }
+}
+
+@media (max-width:1600px) {
+
+    .right_arrow_black,
+    .right_arrow_white {
+        width: 31.62px;
+        height: 28.238px;
+    }
+
+    .mobile_logo {
+        left: 0px;
+        right: 0;
+    }
+
+    .nav_ul {
+        padding-top: 50px;
+    }
+
+    .nav_ul li a {
+        font-size: 42px;
+    }
+
+    .slick-track {
+        height: 870px;
+    }
+
+    .silder_box {
+        max-width: 818px;
+        height: 1044px;
+    }
+
+    .center_banner_text h1 {
+        font-size: 100px;
+    }
+
+    button.slider_finbyz-button {
+        font-size: 23px;
+        width: 460px;
+        height: 69px;
+    }
+
+    .slider_line {
+        bottom: 5.5%;
+    }
+
+    .silde_1,
+    .silde_2,
+    .silde_3,
+    .silde_4 {
+        max-height: 870px;
+    }
+
+    i.fa-solid.fa-arrow-left.slick-arrow,
+    i.fa-solid.fa-arrow-right.slick-arrow {
+        top: 44%;
+    }
+
+    .silder_text {
+        top: 27%;
+    }
+
+    .gesundheit_fitness {
+        padding: 93px 40px;
+    }
+
+    .banner_title2 h2 {
+        font-size: 128px;
+    }
+
+    .banner_bg_img {
+        max-width: 285px;
+        bottom: 95px;
+        right: -9%;
+    }
+
+    .banner_wrapper {
+        padding: 0px 0px 100px;
+    }
+
+    .leistungen_banner h2,
+    .side_row_text h2 {
+        font-size: 120px;
+        top: 15%;
+    }
+
+    .slider_title_text h3 {
+        font-size: 25px;
+    }
+
+    i.fa-solid.fa-check,
+    .slider_small_text ul li {
+        font-size: 16px;
+    }
+
+    .img_round_border {
+        max-width: 330px;
+    }
+
+    .das_sagen_mitglieder {
+        padding: 95px 0px 100px;
+    }
+
+    .das_sagen_text h2 {
+        font-size: 209px;
+    }
+
+    .das_sagen_text h3 {
+        font-size: 51px;
+    }
+
+    .das_sagen_text {
+        max-height: 179px;
+    }
+
+    .das_sagen_line {
+        max-width: 570px;
+    }
+
+    div#counter {
+        top: 37%;
+        left: 6.6%;
+    }
+
+    .das_slider_text {
+        padding: 8px 0px 0px 61px;
+    }
+
+    .das_slider_text p {
+        font-size: 30px;
+    }
+
+    .das_sagen_side_img {
+        left: -15%;
+    }
+
+    .das_slider_text::before {
+        left: 15%;
+        top: -31%;
+    }
+
+    .das_slider_text::after {
+        right: 1%;
+        bottom: -39%;
+    }
+
+    .das_sagen_btn {
+        padding: 4% 0% 0% 0%;
+    }
+
+    button.das_sagen,
+    button.we_fit.btn-form-submi,
+    button.gewinnspiel_btn.btn-form-submit {
+        width: 450px;
+        height: 69px;
+        font-size: 22px;
+    }
+
+    .we_fit_man_text {
+        max-width: 630px;
+    }
+
+    .wiefit_man_wrapper {
+        min-height: 780px;
+    }
+
+    .wiefit_background {
+        width: 750px;
+        height: 735px;
+    }
+
+    .wiefit_man_img {
+        max-width: 82%;
+    }
+
+    .sind_sie_title h3,
+    .banner_title1 {
+        font-size: 60px;
+    }
+
+    .sind_sie_text h3,
+    .sind_sie_text h4 {
+        font-size: 20px;
+    }
+
+    .gewinnspiel_title h2 {
+        font-size: 60px;
+    }
+
+    .gewinnspiel_bottom_img {
+        max-width: 250px;
+        bottom: 7%;
+    }
+
+    .spain_wheel .spain_wheel_box::before {
+        right: 7px;
+    }
+
+    .mit_title {
+        font-size: 60px;
+    }
+
+    .mit_text {
+        font-size: 25px;
+    }
+
+    .italic_text {
+        font-size: 25px;
+    }
+
+    .big_text {
+        font-size: 75px;
+    }
+
+    button.mit_btn {
+        font-size: 22px;
+        height: 70px;
+    }
+
+    .mit_img {
+        max-width: 620px;
+        margin: 0px auto 0px auto;
+    }
+
+    .schon_gewusst {
+        padding: 300px 0px 100px;
+    }
+
+    .daiting_img {
+        max-width: 568px;
+    }
+
+    .schon_img {
+        padding-left: 7%;
+        width: 680px;
+    }
+
+    .daiting_img::before {
+        content: '';
+        width: 95%;
+    }
+
+    .product_box {
+        width: calc(100% - 684px);
+    }
+
+    .strok_title h2,
+    .gewusst_title h2 {
+        font-size: 60px;
+    }
+
+    .strok_title {
+        top: -47px;
+    }
+
+    .gewusst_title {
+        top: -47px;
+    }
+
+    .gewusst_block {
+        padding: 50px 0 35px 40px;
+    }
+
+    .text_right {
+        padding-right: 10%;
+    }
+
+    .product_img {
+        padding-top: 30px;
+    }
+
+    .product_title h3 {
+        font-size: 25px;
+    }
+
+    .product_star span {
+        font-size: 18px;
+    }
+
+    .food_img {
+        position: absolute;
+        top: 51px;
+        right: 7%;
+        z-index: 0;
+        max-width: 180px;
+    }
+
+    .fit_blog h3 {
+        font-size: 120px;
+        bottom: -3%;
+    }
+
+    .gewusst_block_card {
+        margin-top: 10px;
+        max-width: 616px;
+    }
+
+    .gestellte_title h2 {
+        font-size: 60px;
+    }
+
+    .gestellte_line {
+        height: 300px;
+        right: -24%;
+    }
+
+    .accordion {
+        width: calc(100% - 87px);
+        padding-top: 30px;
+        padding-left: 80px;
+    }
+
+    .accordion-body::after {
+        content: '';
+        position: absolute;
+        bottom: -12%;
+        left: 0%;
+        width: 100%;
+        height: 42%;
+    }
+
+    .accordion-body {
+        padding: 25px 0px 80px 149px;
+    }
+
+    button.accordion-button.collapsed h3 {
+        font-size: 20px;
+    }
+
+    button.accordion-button h3 {
+        font-size: 25px;
+    }
+
+    .accordion-button:not(.collapsed)::after {
+        right: 0%;
+    }
+
+    .vereinbaren_text {
+        width: 50%;
+        padding-left: 15px;
+    }
+
+    .vereinbaren_title {
+        font-size: 60px;
+    }
+
+    button.beratungstermin_btn.btn-form-submit {
+        height: 69px;
+    }
+
+    .footer_fitmotion h2 {
+        font-size: 290px;
+        margin: 0px 0px -100px -70px;
+    }
+
+    .adresse_title,
+    .offnungszeiten_title,
+    .folge_title {
+        font-size: 30px;
+    }
+
+    .call_location_section {
+        bottom: 10px;
+        right: 40px;
+    }
+}
+
+@media (max-width:1440px) {
+    .slick-track {
+        height: 678px;
+    }
+
+    button.menu_finbyz-button {
+        font-size: 20px;
+        max-width: 375px;
+        height: 60px;
+    }
+
+    .menu_btn_img {
+        position: absolute;
+        right: 30px;
+        width: 45px;
+        height: 39px;
+    }
+
+    .nav_ul {
+        padding-top: 0px;
+    }
+
+    .nav_ul {
+        margin-left: 20px;
+    }
+
+    .menu_box_wrapper_2 {
+        margin-left: auto;
+        margin-top: 50px;
+        margin-right: auto;
+        justify-content: space-around;
+    }
+
+    .silde_1,
+    .silde_2,
+    .silde_3,
+    .silde_4 {
+        max-height: 678px;
+    }
+
+    .silder_box {
+        max-width: 600px;
+        height: 800px;
+    }
+
+    .center_banner_text h1 {
+        font-size: 70px;
+    }
+
+    .slider_btn {
+        margin-top: 35px;
+    }
+
+    button.slider_finbyz-button {
+        font-size: 22px;
+        width: 375px;
+        height: 60px;
+    }
+
+    .slider_line {
+        bottom: 0%;
+        left: 50%;
+        transform: translateX(-50%);
+        margin: 0px auto 40px;
+    }
+
+    .side_silde_img1,
+    .side_silde_img7 {
+        max-width: 110px;
+        left: -14%;
+    }
+
+    .side_silde_img3 {
+        max-width: 90px;
+    }
+
+    .side_silde_img2,
+    .side_silde_img5,
+    .side_silde_img11 {
+        top: 15%;
+        right: -5%;
+        max-width: 75px;
+    }
+
+    .side_silde_img9 {
+        right: -8%;
+    }
+
+    .side_silde_img10 {
+        bottom: 31%;
+        left: -9%;
+        max-width: 100px;
+    }
+
+    i.fa-solid.fa-arrow-left.slick-arrow, i.fa-solid.fa-arrow-right.slick-arrow {
+        top: 45%;
+    }
+
+    .slide_nav h4,
+    .slider-thumb div {
+        height: 45px;
+        font-size: 22px;
+    }
+
+    .leistungen_banner h2,
+    .side_row_text h2 {
+        font-size: 100px;
+        top: 15%;
+        left: -1%;
+    }
+
+    .leistungen_slider {
+        padding: 0px 0px 0px 210px;
+    }
+
+    .slider_box {
+        padding: 25px 50px 0;
+    }
+
+    .container {
+        max-width: 1199px;
+        padding: 0px 15px;
+    }
+
+    .das_sagen_text h2 {
+        font-size: 150px;
+    }
+
+    .das_sagen_text h3 {
+        font-size: 40px;
+        padding-top: 15px;
+    }
+
+    .das_sagen_line {
+        max-width: 450px;
+        margin-left: 12px;
+    }
+
+    div#counter {
+        top: 37%;
+        left: 11.6%;
+    }
+
+    .das_sagen_slider.owl-carousel.owl-theme.owl-loaded.owl-drag {
+        max-width: 910px;
+    }
+
+    .das_slider_text p {
+        font-size: 25px;
+    }
+
+    .das_slider_text::before {
+        left: 18%;
+        top: -24%;
+        font-size: 190px;
+    }
+
+    .das_slider_text::after {
+        right: 19%;
+        bottom: -25%;
+        font-size: 190px;
+    }
+
+    .das_sagen_btn {
+        padding: 4% 0% 0% 16%;
+    }
+
+    img.das_sagen_btn_img {
+        width: 39px;
+    }
+
+    .das_sagen_text {
+        max-height: 125px;
+    }
+
+    .das_sagen_side_img {
+        left: -7.0%;
+        max-width: 200px;
+    }
+
+    .das_slider_text {
+        max-width: 735px;
+    }
+
+    .das_unsere_btn {
+        max-width: 662px;
+    }
+
+    .das_img {
+        bottom: 0%;
+    }
+
+    .wiefit_man_wrapper {
+        min-height: 630px;
+    }
+
+    .wiefit_background {
+        width: 600px;
+        height: 600px;
+    }
+
+    .gewinnspiel_text h5,
+    .gewinnspiel_text h6 {
+        font-size: 20px;
+    }
+
+    /* ******************************************************************************************************************************* */
+    button.das_sagen,
+    button.we_fit.btn-form-submit,
+    button.gewinnspiel_btn.btn-form-submit,
+    button.online_btn.btn-form-submit,
+    button.mit_btn.btn-form-submit,
+    button.beratungstermin_btn.btn-form-submit,
+    button.das_unsere.btn-form-submit {
+        width: 375px;
+        height: 65px;
+        font-size: 20px;
+    }
+
+    .gewinnspiel {
+        padding: 100px 0px 100px;
+    }
+
+    .gewinnspiel_leyer_1 {
+        padding: 70px 40px;
+    }
+
+    .gewinnspiel_text_section {
+        padding: 110px 40px 0px 40px;
+        max-height: 414px;
+        display: flex;
+    }
+
+    .spain_wheel .spain_wheel_box::before {
+        right: 55px;
+        top: -52px;
+    }
+
+    .spain_wheel_box::after {
+        background-size: 92%;
+        background-repeat: no-repeat;
+        width: 461px;
+        height: 513px;
+    }
+
+    .spain_wheel_box {
+        width: unset;
+        margin-left: 60px;
+    }
+
+    .spain_img::after {
+        bottom: 12%;
+    }
+
+    .spain_img {
+        max-width: 409px;
+    }
+
+    .whell_btn a {
+        width: 115px;
+        height: 115px;
+        font-size: 21px;
+        right: 50px;
+    }
+
+    .gewinnspiel_bottom_img {
+        max-width: 200px;
+    }
+
+    .online_analyse_img {
+        max-width: 500px;
+    }
+
+    .online_text_title h2 {
+        font-size: 60px;
+    }
+
+    .analyse_list h3 {
+        font-size: 25px;
+    }
+
+    .analyse_list {
+        padding-top: 100px;
+        max-width: 540px;
+    }
+
+    .online_analyse {
+        justify-content: space-around;
+    }
+
+    .mit_img {
+        max-width: 490px;
+        margin: 40px 50px 0px auto;
+    }
+
+    .schon_gewusst {
+        padding: 230px 0px 100px;
+    }
+
+    .schon_img {
+        padding-left: 6%;
+        width: 550px;
+    }
+
+    .schon_gewusst_block {
+        align-items: center;
+    }
+
+    .product_box {
+        width: calc(100% - 560px);
+    }
+
+    .food_img {
+        top: 65px;
+        right: 9%;
+    }
+
+    .haufig_gestellte {
+        padding: 0px 0px 65px;
+    }
+
+    .gewusst_block_card {
+        max-width: 650px;
+    }
+
+    .gewusst_p {
+        font-size: 17px;
+        line-height: 1.5;
+    }
+
+    .fit_blog h3 {
+        bottom: 8%;
+    }
+
+    .accordion {
+        width: calc(100% - 0px);
+    }
+
+    .vereinbaren_title {
+        font-size: 50px;
+    }
+
+    .footer_fitmotion h2 {
+        font-size: 260px;
+    }
+
+    .footer_box {
+        justify-content: space-around;
+    }
+}
+
+@media (max-width:1360px) {
+
+    i.fa-solid.fa-arrow-left.slick-arrow,
+    i.fa-solid.fa-arrow-right.slick-arrow {
+        top: 45%;
+    }
+
+    .footer_fitmotion h2 {
+        font-size: 245px;
+    }
+}
+
+@media (max-width:1280px) {
+    .menu_trigger_block {
+        top: 51px;
+        right: 5%;
+    }
+
+    .menu_box_wrapper_2 {
+        margin-top: 50px;
+        margin-right: auto;
+    }
+
+    .menu_box_wrapper_1 {
+        justify-content: space-around;
+        max-width: unset;
+    }
+
+    .leistungen_slider {
+        padding: 0px 0px 0px 170px;
+    }
+
+    #leistungen_slider .owl-nav {
+        right: 15%;
+    }
+
+    .gewinnspiel_text {
+        max-width: 360px;
+    }
+
+    .product_box {
+        width: calc(100% - 510px);
+    }
+
+    .schon_img {
+        padding-left: 4%;
+        width: 495px;
+    }
+
+    .food_img {
+        top: 60px;
+        right: 4%;
+    }
+}
+
+@media (max-width:1199px) {
+    .mobile_logo {
+        top: 5px;
+    }
+
+    .menu_box_wrapper_1 {
+        justify-content: space-between;
+        max-width: 641px;
+    }
+
+    .menu_toggle,
+    .toggle.active span:nth-child(1),
+    .toggle.active span:nth-child(2) {
+        top: 23px;
+        right: 60px;
+        width: 40px;
+        height: 4px;
+    }
+
+    .menu_toggle_main_row {
+        gap: 0px;
+        padding: 0 30px 0px 0px;
+    }
+
+    .menu_box_wrapper_2 {
+        margin-left: 0px;
+        margin-top: 50px;
+        margin-right: auto;
+        display: flex;
+        justify-content: space-between;
+        max-width: 625px;
+    }
+
+    .nav_ul li::after {
+        top: 15px;
+        left: -48px;
+        width: 35px;
+        height: 40px;
+    }
+
+    i.fa-solid.fa-arrow-left.slick-arrow,
+    i.fa-solid.fa-arrow-right.slick-arrow {
+        top: 45%;
+    }
+
+    .menu_trigger_block {
+        top: 5px;
+        right: 1%;
+    }
+
+    .gesundheit_fitness {
+        padding: 70px 15px;
+    }
+
+    .banner_title1 p {
+        font-size: 35px;
+    }
+
+    .banner_title2 h2 {
+        font-size: 98px;
+    }
+
+    .banner_bg_img {
+        max-width: 215px;
+        bottom: 66px;
+        right: -10%;
+    }
+
+    button.gesundheit_button,
+    button.das_unsere.btn-form-submit {
+        width: 375px;
+        height: 57px;
+        font-size: 18px;
+    }
+
+    .slider_line {
+        margin: 0px auto 22px;
+    }
+
+    .side_row_text h2 {
+        display: none;
+    }
+
+    .leistungen_slider {
+        padding: 0px 12px 0px 12px;
+    }
+
+    .slider_box {
+        padding: 25px 30px 0;
+    }
+
+    i.fa-solid.fa-arrow-left,
+    i.fa-solid.fa-arrow-right {
+        margin-right: 0px;
+        font-size: 21px;
+        padding: 9px 10px 8px 10px;
+    }
+
+    #leistungen_slider button.owl-next {
+        position: absolute;
+    }
+
+    #leistungen_slider .owl-nav {
+        position: unset;
+    }
+
+    #leistungen_slider button.owl-prev {
+        position: absolute;
+        top: 48%;
+        left: 0%;
+    }
+
+    #leistungen_slider button.owl-next {
+        top: 48%;
+        right: 0%;
+    }
+
+    .das_sagen_side_img {
+        display: none;
+    }
+
+    .das_img {
+        bottom: -7%;
+        max-width: 35px;
+    }
+
+    div#counter {
+        left: 1.6%;
+        bottom: 15%;
+        top: unset;
+    }
+
+    .das_slider_text::after {
+        right: -2%;
+    }
+
+    span.das_sagen_arrow i.fa-solid.fa-arrow-left {
+        font-size: 21px;
+        padding: 9px 10px 8px 10px;
+    }
+
+    button.das_sagen {
+        height: 57px;
+        font-size: 19px;
+    }
+
+    .wiefit_man_wrapper {
+        min-height: 480px;
+    }
+
+    .wiefit_background {
+        width: 450px;
+        height: 450px;
+    }
+
+    .we_fit_man_text {
+        max-width: 585px;
+    }
+
+    .sind_sie_title h3 {
+        font-size: 40px;
+    }
+
+    .sind_sie_text h3 {
+        padding: 70px 0px 6px;
+    }
+
+    .sind_sie_title div {
+        width: 136px;
+    }
+
+    .sind_sie_text p {
+        font-size: 16px;
+    }
+
+    button.we_fit.btn-form-submit,
+    button.gewinnspiel_btn.btn-form-submit,
+    button.mit_btn.btn-form-submit,
+    button.beratungstermin_btn.btn-form-submit {
+        width: 375px;
+        height: 57px;
+        font-size: 18px;
+    }
+
+    img.we_fit_btn_img,
+    img.beratungstermin_img_btn {
+        width: 26px;
+        height: 33px;
+    }
+
+    .gewinnspiel_leyer_2 {
+        display: none;
+    }
+
+    .gewinnspiel_bottom_img {
+        display: none;
+    }
+
+    .spain_wheel_box {
+        width: 550px;
+        margin-left: auto;
+    }
+
+    .gewinnspiel_text,
+    .spain_wheel {
+        max-width: unset;
+        width: 50%;
+    }
+
+    .gewinnspiel_title h2 {
+        font-size: 40px;
+    }
+
+    .gewinnspiel_title div {
+        width: 130px;
+        height: 2px;
+    }
+
+    .whell_btn a {
+        right: 139px;
+    }
+
+    img.gewinnspiel_img_btn {
+        width: 30px;
+        height: 35px;
+    }
+
+    .online_analyse {
+        justify-content: space-between;
+    }
+
+    .online_text_title h2 {
+        font-size: 40px;
+    }
+
+    .analyse_list,
+    .mit_text {
+        padding-top: 50px;
+    }
+
+    .analyse_list ul li {
+        font-size: 18px;
+    }
+
+    .online_ana {
+        padding: 70px 0 130px;
+    }
+
+    .mit_title {
+        font-size: 40px;
+    }
+
+    .mit_img {
+        margin: 40px 50px 0px auto;
+    }
+
+    .mitglied_shape_top {
+        bottom: 99.9%;
+    }
+
+    .mitglied_shape_down {
+        top: 99.8%;
+    }
+
+    .schon_img {
+        padding-left: 2%;
+        width: 435px;
+    }
+
+    .fit_blog h3 {
+        display: none;
+    }
+
+    .gewusst_title {
+        top: -30px;
+        left: 40px;
+    }
+
+    .strok_title h2,
+    .gewusst_title h2 {
+        font-size: 40px;
+    }
+
+    .strok_title {
+        top: -30px;
+        left: 70px;
+    }
+
+    .product_box {
+        width: calc(100% - 440px);
+    }
+
+    .text_right {
+        padding-right: 2%;
+    }
+
+    .gewusst_p {
+        font-size: 16px;
+    }
+
+    .product_menu_text {
+        padding: 28px 0px 0px 25px;
+    }
+
+    .product_title h3 {
+        font-size: 20px;
+    }
+
+    .gewusst_wrap_card {
+        flex-wrap: unset;
+    }
+
+    .gestellte_title h2 {
+        font-size: 40px;
+        max-width: 225px;
+    }
+
+    .accordion {
+        padding-left: 65px;
+    }
+
+    .beratungstermin_block.owl-theme .owl-nav [class*=owl-] {
+        width: 64px;
+        height: 54px;
+    }
+
+    .vereinbaren_title {
+        font-size: 40px;
+    }
+
+    .beratungstermin_vereinbaren {
+        margin-right: 0px;
+    }
+
+    .vereinbaren_text2 {
+        font-size: 20px;
+    }
+
+    .vereinbaren_text {
+        padding-left: 20px;
+    }
+
+    .beratungstermin {
+        padding: 150px 0 100px;
+    }
+
+    .footer_fitmotion h2 {
+        font-size: 215px;
+        margin: 0px 0px -80px -50px;
+    }
+
+    .footer_box {
+        padding: 100px 0 100px;
+    }
+}
+
+@media (max-width:991px) {
+    .gewinnspiel_leyer_1::after{
+        display: none;
+    }
+    .right_arrow_black, .right_arrow_white {
+        width: 23.62px;
+        height: 22.238px;
+    }
+    .slick-track {
+        height: 570px;
+    }
+
+    .nav_ul li {
+        margin-top: 35px;
+        margin-left: 35px;
+        padding-left: 0px;
+    }
+
+    .menu_toggle {
+        right: 65px;
+    }
+
+    .container,
+    .container-md,
+    .container-sm {
+        max-width: 991px;
+    }
+
+    .silde_1,
+    .silde_2,
+    .silde_3,
+    .silde_4 {
+        max-height: 570px;
+    }
+
+    i.fa-solid.fa-arrow-left.slick-arrow,
+    i.fa-solid.fa-arrow-right.slick-arrow {
+        top: 43%;
+    }
+
+    .silder_box {
+        max-width: 508px;
+        height: 670px;
+        margin: 20px auto;
+    }
+
+    .center_banner_text h1 {
+        font-size: 50px;
+    }
+
+    button.slider_finbyz-button {
+        font-size: 19px;
+        width: 320px;
+        height: 53px;
+    }
+
+    .slider_line {
+        bottom: 41.5%;
+        display: none;
+    }
+
+    .slide_nav h4,
+    .slider-thumb div {
+        height: 40px;
+        font-size: 18px;
+    }
+
+    .silder_text {
+        top: 29%;
+    }
+
+    .side_silde_img12 {
+        right: -10%;
+    }
+
+    .banner_title1 p {
+        font-size: 25px;
+    }
+
+    .banner_title2 h2 {
+        font-size: 79px;
+    }
+
+    button.gesundheit_button {
+        width: 320px;
+        height: 50px;
+        font-size: 16px;
+    }
+
+    .banner_small_title_1 p {
+        padding: 35px 0px;
+        font-size: 18px;
+        width: 650px;
+    }
+
+    .gesundheit_btn_img,
+    .gesundheit_btn {
+        width: 40px;
+        height: 30px;
+    }
+
+    .banner_bg_img {
+        max-width: 170px;
+        bottom: 30px;
+    }
+
+    .leistungen_banner h2 {
+        font-size: 60px;
+        text-align: center;
+        padding-bottom: 35px;
+    }
+
+    .slider_box {
+        padding: 25px 13px 0;
+    }
+
+    .das_sagen_text h2 {
+        font-size: 120px;
+    }
+
+    .das_sagen_text h3 {
+        font-size: 30px;
+        padding-top: 15px;
+    }
+
+    .das_sagen_text {
+        max-height: 110px;
+        max-width: 350px;
+    }
+
+    .das_sagen_slider.owl-carousel.owl-theme.owl-loaded.owl-drag {
+        max-width: 945px;
+    }
+
+    div#counter {
+        left: 1.6%;
+        bottom: 9%;
+    }
+
+    .das_slider_text p {
+        font-size: 20px;
+    }
+
+    .das_slider_text::before {
+        left: 21%;
+        top: -33%;
+    }
+
+    .das_slider_text::after {
+        right: 4%;
+        bottom: -37%;
+    }
+
+    .der_name_title {
+        padding: 15px 8px 0px 8px;
+    }
+
+    .das_sagen_btn {
+        padding: 8% 0% 0% 0%;
+    }
+
+    .das_sagen_mitglieder {
+        padding: 50px 0px 50px;
+    }
+
+    .wiefit_man_wrapper {
+        min-height: 400px;
+    }
+
+    .wiefit_background {
+        width: 385px;
+        height: 375px;
+    }
+
+    .container .we_fit_man_text {
+        width: 57%;
+    }
+
+    button.we_fit.btn-form-submit,
+    button.das_unsere.btn-form-submit {
+        width: 320px;
+        height: 50px;
+        font-size: 16px;
+    }
+
+    .das_img {
+        bottom: -18%;
+    }
+
+    .das_unsere_btn {
+        max-width: unset;
+        width: 57%;
+        margin-right: auto;
+    }
+
+    .gewinnspiel_text_2 {
+        padding: 60px 0px 20px;
+    }
+
+    .gewinnspiel {
+        padding: 70px 0px 25px;
+    }
+
+    .gewinnspiel_title h2,
+    .gewinnspiel_title div {
+        display: none;
+    }
+
+    .gewinnspiel_mobile {
+        margin-bottom: 55px;
+        display: block;
+        text-align: center;
+    }
+
+    .gewinnspiel_mobile:after {
+        margin: 0 auto;
+        right: 0;
+        bottom: 86%;
+    }
+
+    .spain_wheel {
+        order: -1;
+        margin: 0px auto 55px;
+        height: 399px;
+        position: relative;
+        max-width: 422px;
+        width: unset;
+    }
+
+    .gewinnspiel_text {
+        max-width: unset;
+        width: 100%;
+        text-align: center;
+    }
+
+    button.gewinnspiel_btn.btn-form-submit,
+    button.online_btn.btn-form-submit,
+    button.mit_btn.btn-form-submit,
+    button.beratungstermin_btn.btn-form-submit {
+        width: 320px;
+        height: 50px;
+        font-size: 16px;
+        margin: 0 auto;
+    }
+
+    .gewinnspiel_leyer_1 {
+        padding: 50px 40px;
+    }
+
+    .spain_img::after {
+        bottom: -14%;
+    }
+
+    .gewinnspiel_title div {
+        margin: 6px auto;
+    }
+
+    .online_analyse {
+        flex-wrap: wrap;
+        justify-content: center;
+        position: relative;
+    }
+
+    .online_text_title {
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        /* transform: translateX(-50%); */
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+
+    .online_analyse_img {
+        margin-top: 50px;
+        padding-top: 30px;
+    }
+
+    .online_text_title h2::after {
+        right: 0px;
+        width: 138px;
+        margin: -5px auto;
+    }
+
+    .online_ana {
+        padding: 30px 0 130px;
+    }
+
+    .analyse_list {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .online_btn {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .analyse_list {
+        padding-top: 100px;
+        max-width: unset;
+    }
+
+    .analyse_list {
+        padding-top: 0px;
+    }
+
+    img.online_img_btn {
+        height: 35px;
+    }
+
+    .col-6_img {
+        max-width: unset;
+        order: -1;
+    }
+
+    .mit_img {
+        margin: 60px auto;
+    }
+
+    .laptop_text,
+    .mit_title::after {
+        display: none;
+    }
+    .mit_unserem {
+        padding: 20px 0px 20px;
+    }
+    .mobile_text {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .col-6 {
+        max-width: unset;
+        width: 100%;
+    }
+
+    .mit_text {
+        text-align: center;
+        max-width: unset;
+        width: 100%;
+    }
+
+    .mit_btn {
+        margin-top: 25px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .gesundheit_btn {
+        width: 25px;
+        height: 20px;
+    }
+
+    .mit_line {
+        width: 138px;
+        height: 1px;
+        margin: 7px 0px 0px;
+        background-color: #ffffff;
+    }
+
+    .mit_text {
+        padding-top: 0px;
+    }
+
+    .schon_img {
+        display: none;
+    }
+
+    .schon_gewusst {
+        padding: 240px 15px 70px;
+    }
+
+    .gewusst_text {
+        padding: 0px;
+        margin-left: 0px;
+        border-radius: 20px;
+        z-index: 29;
+    }
+
+    .gewusst_block {
+        padding: 35px 20px 20px 20px;
+    }
+
+    .product_box {
+        width: 100%;
+    }
+
+    .mobile_product_img img {
+        display: block;
+        width: 100%;
+        max-height: 350px;
+        object-fit: cover;
+        border-radius: 20px;
+        max-height: 350px;
+        position: relative;
+    }
+
+    .mobile_product_img::before {
+        content: '';
+        width: 91%;
+        height: 37%;
+        border: 2px solid #f3f3f3;
+        position: absolute;
+        left: 35px;
+        top: 49px;
+        border-radius: 20px;
+        z-index: 60;
+    }
+
+    .gewusst_p {
+        font-size: 16px;
+        padding-top: 20px;
+    }
+
+    .gewusst_big {
+        font-size: 50px;
+    }
+
+    .gewusst_block_card {
+        max-width: unset;
+        width: 100%;
+    }
+
+    .food_img {
+        position: unset;
+        z-index: 1;
+    }
+
+    .product_menu_text {
+        display: flex;
+        align-items: center;
+    }
+
+    .gewusst_wrap_card {
+        justify-content: space-evenly;
+    }
+
+    .strok_title {
+        top: -30px;
+        left: 40px;
+        z-index: 5;
+    }
+
+    .haufig_gestellte_fragen {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .accordion {
+        padding: 15px 0px 0px;
+    }
+
+    .gestellte_title h2 {
+        font-size: 40px;
+        max-width: unset;
+    }
+
+    .gestellte_line {
+        height: 1px;
+        width: 138px;
+        margin: 9px auto;
+        position: unset;
+        transform: unset;
+    }
+
+    .accordion-button::after {
+        right: -1%;
+        background-size: 25px;
+    }
+
+    button.accordion-button {
+        padding: 0px;
+    }
+
+    .accordion-body {
+        padding: 20px 0px 44px 41px;
+        margin-bottom: 0px;
+    }
+
+    .accordion-body::after {
+        bottom: -7%;
+        height: 85px;
+    }
+
+    .accordion-button:not(.collapsed)::after {
+        right: 0.4%;
+        background-size: 25px;
+    }
+
+    button.accordion-button.collapsed {
+        padding: 25px 40px 25px 0px;
+    }
+
+    .beratungstermin {
+        padding: 70px 0 55px;
+    }
+
+    .beratungstermin_slider,
+    .vereinbaren_text {
+        width: 100%;
+    }
+
+    .vereinbaren_title,
+    .vereinbaren_text2 {
+        display: none;
+    }
+
+    .beratungstermin_btn {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .beratungstermin_mobile_text {
+        margin-bottom: 10px;
+    }
+
+    .mobile_title {
+        display: block;
+        font-size: 40px;
+        color: #3b3b3b;
+        font-family: Mont-Bold;
+        margin-bottom: 10px;
+    }
+
+    .mobile_text2 {
+        display: block;
+        font-size: 20px;
+        color: #3b3b3b;
+        font-family: Mont-Regular;
+        margin-bottom: 10px;
+    }
+
+    .footer_fitmotion h2 {
+        font-size: 180px;
+        margin: 0px 0px -64px -45px;
+    }
+
+    .footer_line {
+        margin: 0 auto 30px;
+    }
+
+    .adresse_box,
+    .offnungszeiten_box,
+    .folge_box {
+        width: 100%;
+        margin-top: 60px;
+    }
+
+    .footer_box {
+        flex-wrap: wrap;
+    }
+
+    .icon_uns {
+        justify-content: center;
+        gap: 85px;
+    }
+
+    .call_open_box {
+        width: 570px;
+        height: 570px;
+    }
+
+    .call_off_in {
+        max-width: 360px;
+        top: 19%;
+    }
+}
+
+@media (max-width:767px) {
+    .slick-track {
+        height: 810px;
+    }
+
+    button.menu_finbyz-button {
+        font-size: 18px;
+        max-width: 320px;
+        height: 55px;
+    }
+
+    .menu_toggle,
+    .toggle.active span:nth-child(1),
+    .toggle.active span:nth-child(2) {
+        top: 20px;
+        right: 20px;
+        width: 40px;
+        height: 3px;
+    }
+
+    img.mobile_logo_img {
+        position: absolute;
+        top: 10px;
+        max-width: 140px;
+    }
+
+    .menu_box_section {
+        display: none;
+    }
+    .toggle.active.menu-close {
+        position: absolute;
+        right: -40px;
+    }
+    .toggle{
+        position: absolute;
+        right: 0px;
+    }
+    .toggle span:nth-child(1) {
+        width: 40px;
+        left: 47px;
+        height: 3px;
+        top: 55%;
+    }
+
+    .toggle span {
+        width: 40px;
+        height: 3px;
+        left: 47px;
+        top: 45%;
+    }
+
+    .toggle span:nth-child(2) {
+        width: 25px;
+        left: 64px;
+        top: 35%;
+        height: 3px;
+    }
+
+    .menu_nav_toggle_block {
+        padding: 0px;
+    }
+
+    .nav_ul li a {
+        font-size: 30px;
+        transform: translateX(0px);
+        display: block;
+    }
+
+    .nav_ul {
+        padding-top: 50px;
+        margin-left: 37px;
+    }
+
+    .nav_ul li {
+        margin-top: 18px;
+        margin-left: 0px;
+    }
+
+    li.menu_list_nav {
+        margin-top: 40px;
+    }
+
+    .nav_ul li::after {
+        top: 10px;
+        left: -32px;
+        width: 25px;
+        height: 25px;
+    }
+
+    .nav_ul ul li:hover a {
+        transform: translateX(15px);
+    }
+
+    .logo_header {
+        max-width: 160px;
+        padding-left: 10px;
+    }
+
+    .silde_1,
+    .silde_2,
+    .silde_3,
+    .silde_4 {
+        max-height: 810px;
+    }
+
+    .silder_box {
+        max-width: 500px;
+        height: 653px;
+        margin: 100px auto;
+    }
+
+    .center_banner_text h1 {
+        font-size: 50px;
+    }
+
+    .side_silde_img1 {
+        max-width: 55px;
+        left: 8%;
+        bottom: 27%;
+    }
+
+    .side_silde_img2 {
+        top: 3%;
+        right: 9%;
+        max-width: 50px;
+    }
+
+    .side_silde_img3 {
+        max-width: 50px;
+        bottom: 19%;
+        right: 15%;
+    }
+
+    .slider_btn {
+        position: absolute;
+        left: 17%;
+        bottom: -275%;
+    }
+
+    .slider_line {
+        bottom: 41.5%;
+        display: none;
+    }
+
+    .silder_text {
+        top: 33%;
+    }
+
+    .menu_trigger_block {
+        top: -4px;
+        right: 1%;
+    }
+
+    i.fa-solid.fa-arrow-left.slick-arrow,
+    i.fa-solid.fa-arrow-right.slick-arrow {
+        top: 68%;
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+        border: 1px solid white;
+        border-radius: 30px;
+        padding: 7px 8px 7px 8px;
+    }
+
+    .side_silde_img4,
+    .side_silde_img7,
+    .side_silde_img10 {
+        max-width: 75px;
+    }
+
+    .side_silde_img5,
+    .side_silde_img8,
+    .side_silde_img11 {
+        max-width: 55px;
+    }
+
+    .side_silde_img6,
+    .side_silde_img9,
+    .side_silde_img12 {
+        max-width: 85px;
+    }
+
+    .gesundheit_fitness {
+        padding: 50px 15px 80px;
+    }
+
+    .banner_title1 p {
+        font-size: 20px;
+    }
+
+    .banner_title2 h2 {
+        font-size: 50px;
+        width: 80%;
+    }
+
+    .banner_line1 {
+        width: 40%;
+        height: 2px;
+    }
+
+    .banner_bg_img {
+        max-width: 125px;
+    }
+
+    .banner_small_title_1 p {
+        width: 533px;
+    }
+
+    .slider_box {
+        padding: 25px 30px 0;
+    }
+
+    #leistungen_slider button.owl-prev {
+        top: 51%;
+        left: -1%;
+    }
+
+    #leistungen_slider button.owl-next {
+        top: 51%;
+        right: -1%;
+    }
+
+    .leistungen_banner h2 {
+        font-size: 45px;
+        -webkit-text-stroke-width: 0px;
+        color: #3b3b3b;
+    }
+
+    .das_slider_text::before {
+        left: 28%;
+        top: -25%;
+    }
+
+    .das_sagen_line {
+        max-width: 330px;
+        height: 2px;
+    }
+
+    .wiefit_man_round {
+        width: 100%;
+        position: relative;
+    }
+
+    .wiefit_man_img {
+        width: 375px;
+        position: absolute;
+        top: 14%;
+        left: 22%;
+    }
+
+    .container .we_fit_man_text {
+        width: unset;
+    }
+
+    .we_fit_man_text {
+        max-width: 730px;
+    }
+
+    .wiefit_background {
+        width: 450px;
+        height: 438px;
+        position: unset;
+        margin: 85px auto 0px auto;
+    }
+
+    .sind_sie_title {
+        position: absolute;
+        top: 0%;
+        left: 35%;
+        padding-top: 30px;
+    }
+
+    .sind_sie_title h3 {
+        font-size: 30px;
+    }
+
+    .sind_sie_title div {
+        margin: 10px auto;
+    }
+
+    .gewinnspiel_mobile:after {
+        bottom: 89%;
+    }
+
+    .gewinnspiel_mobile h2 {
+        font-size: 30px;
+    }
+
+    .gewinnspiel_leyer_1 {
+        border-radius: 20px;
+    }
+
+    .online_text_title h2 {
+        font-size: 28px;
+    }
+
+    .online_analyse_img img {
+        border-radius: 20px 20px 100px 20px;
+    }
+
+    .analyse_list h3 {
+        font-size: 20px;
+    }
+
+    .mit_title {
+        font-size: 30px;
+    }
+
+    .big_text {
+        font-size: 65px;
+    }
+
+    .mit_text,
+    .italic_text {
+        font-size: 20px;
+    }
+
+    .big_round_shape {
+        width: 330px;
+        height: 330px;
+        bottom: -46px;
+        right: -20px;
+    }
+
+    .mit_img {
+        margin: 40px auto;
+    }
+
+    .strok_title h2,
+    .gewusst_title h2 {
+        font-size: 30px;
+    }
+
+    .strok_title {
+        top: -22px;
+    }
+
+    .gewusst_title {
+        top: -22px;
+        left: 40px;
+    }
+
+    .mobile_product_img::before {
+        width: 87%;
+        height: 33%;
+        left: 35px;
+        top: 50px;
+    }
+
+    .gestellte_title h2 {
+        font-size: 30px;
+    }
+
+    button.accordion-button.collapsed h3 {
+        font-size: 18px;
+    }
+
+    button.accordion-button.collapsed span {
+        font-size: 18px;
+    }
+
+    button.accordion-button span {
+        font-size: 50px;
+    }
+
+    button.accordion-button h3 {
+        font-size: 20px;
+    }
+
+    .accordion-body {
+        font-size: 16px;
+    }
+
+    .accordion-body::after {
+        bottom: -9px;
+        height: 75px;
+    }
+
+    .accordion-button::after {
+        right: -1.4%;
+        background-size: 25px;
+    }
+
+    .mobile_title {
+        font-size: 30px;
+    }
+
+    .beratungstermin_img img {
+        border-radius: 20px;
+    }
+
+    .beratungstermin_mobile_text {
+        margin-bottom: 0px;
+    }
+
+    .footer_fitmotion h2 {
+        font-size: 140px;
+        margin: 0px 0px -50px -35px;
+    }
+
+    .footer_box {
+        padding: 25px 0 60px;
+    }
+
+    .footer_line {
+        height: 2px;
+    }
+
+    .adresse_title,
+    .offnungszeiten_title,
+    .folge_title {
+        font-size: 25px;
+        margin-bottom: 25px;
+    }
+
+    .call_location_section {
+        right: 15px;
+    }
+
+    .call_img {
+        width: 60px;
+        height: 60px;
+    }
+
+    .call_on {
+        width: 30px;
+        bottom: 13px;
+        right: 17px;
+        height: 30px;
+    }
+
+    .call_off {
+        width: 34px;
+        bottom: 12px;
+        right: 14px;
+        height: 34px;
+    }
+
+    .call_img::after {
+        width: 25px;
+        height: 25px;
+        right: -13px;
+    }
+
+    .call_open_box {
+        width: 483px;
+        height: 483px;
+        bottom: 29px;
+        right: 22px;
+    }
+
+    a.call_map_btn {
+        margin-bottom: 9px;
+        padding: 8PX 5px;
+        font-size: 16px;
+    }
+
+    .call_off_in {
+        max-width: 300px;
+        top: 17%;
+    }
+
+    .call_map iframe {
+        margin-bottom: 0px;
+    }
+
+    .close_btn {
+        right: 50px;
+        top: 36px;
+    }
+}
+
+@media (max-width:630px) {
+    .wiefit_man_img {
+        width: 375px;
+        position: absolute;
+        top: 14%;
+        left: 17%;
+    }
+}
+
+@media (max-width:575px) {
+    .gesundheit_fitness {
+        padding: 40px 15px 50px;
+    }
+    .Leistungen_wrapper {
+        padding: 50px 0px 25px;
+    }
+    .slick-track {
+        height: 700px;
+    }
+
+    .silder_box {
+        max-width: 400px;
+        height: 520px;
+        margin: 100px auto;
+    }
+
+    .center_banner_text h1 {
+        font-size: 42px;
+    }
+
+    .slider_btn {
+        left: 11%;
+        bottom: -250%;
+    }
+
+    .silde_1,
+    .silde_2,
+    .silde_3,
+    .silde_4 {
+        max-height: 700px;
+    }
+
+    i.fa-solid.fa-arrow-left.slick-arrow,
+    i.fa-solid.fa-arrow-right.slick-arrow {
+        top: 71%;
+    }
+
+    .banner_title2 h2 {
+        font-size: 40px;
+    }
+
+    .banner_small_title_1 p {
+        font-size: 16px;
+        padding: 20px 0px;
+        width: 84%;
+    }
+
+    .leistungen_banner h2 {
+        font-size: 35px;
+    }
+
+    .slider_box {
+        padding: 0px 20px 0;
+        border: none;
+    }
+
+    .border_1 {
+        border: 9px solid #f07939;
+    }
+
+    .border_2 {
+        border: 9px solid #f9ad23;
+    }
+
+    .border_3 {
+        border: 9px solid #ee888e;
+    }
+
+    .border_4 {
+        border: 9px solid #d3ee74;
+    }
+
+    .img_round_border {
+        max-width: 420px;
+    }
+
+    button.owl-prev,
+    button.owl-next {
+        top: 48%;
+    }
+
+    #leistungen_slider .owl-dots {
+        padding-top: 35px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #leistungen_slider.owl-theme .owl-dots .owl-dot.active span {
+        width: 14px;
+        height: 14px;
+        background-color: #5BBAC6;
+    }
+
+    #leistungen_slider.owl-theme .owl-dots .owl-dot span {
+        background-color: #A5E8F1;
+        margin: 5px;
+    }
+
+    .das_sagen_mitglieder {
+        padding: 40px 0px 50px;
+    }
+
+    .das_slider {
+        padding-top: 20px;
+        display: block;
+    }
+
+    .das_sagen_text {
+        max-height: 110px;
+        max-width: unset;
+        width: 100%;
+    }
+
+    .das_slider_text {
+        padding: 0px 30px;
+    }
+
+    .der_name {
+        display: flex;
+        padding-bottom: 30px;
+        justify-content: center;
+    }
+
+    .das_sagen_slider .owl-carousel .owl-dots.disabled,
+    .owl-carousel .owl-nav.disabled {
+        display: flex;
+        position: absolute;
+        top: 21%;
+        left: 0%;
+        justify-content: space-between;
+    }
+
+    .das_sagen_slider button.owl-next {
+        position: absolute;
+        right: -12%;
+        top: 0%;
+    }
+
+    div#counter {
+        left: 3.6%;
+        top: 25%;
+    }
+
+    .das_slider_text::before {
+        left: 0%;
+        top: 15%;
+        font-size: 151px;
+    }
+
+    .das_slider_text::after {
+        display: none;
+    }
+
+    .das_sagen_slider .owl-dots {
+        display: block;
+    }
+
+    .das_sagen_slider .owl-dots {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .das_sagen_slider.owl-theme .owl-dots .owl-dot.active span {
+        width: 14px;
+        height: 14px;
+        background-color: #5BBAC6;
+    }
+
+    .das_sagen_slider.owl-theme .owl-dots .owl-dot span {
+        background-color: #A5E8F1;
+        margin: 5px;
+    }
+
+    .das_sagen_btn {
+        padding: 5% 0% 0% 0%;
+    }
+
+    /* ******************************************************************************************************************************* */
+    .das_unsere_btn {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .das_sagen_line {
+        max-width: 137px;
+        height: 2px;
+        margin-left: -10px;
+    }
+
+    .wiefit_background {
+        width: 370px;
+        height: 372px;
+        margin: 90px auto 0px auto;
+    }
+
+    .wiefit_man_img {
+        width: 315px;
+        left: auto;
+        top: 19%;
+    }
+
+    .sind_sie_title {
+        left: 29%;
+    }
+
+    .wie_fit_overleyer {
+        clip-path: polygon(36% 0, 53% 0, 80% 116%, 0% 98%);
+    }
+
+    .sind_sie_text h3,
+    .sind_sie_text h4 {
+        padding: 15px 0px 0px 0px;
+        font-size: 18px;
+    }
+
+    .spain_wheel {
+        margin: 0 auto 25px;
+    }
+
+    .spain_wheel_box {
+        width: unset;
+        height: unset;
+        position: relative;
+        margin-left: auto;
+    }
+
+    .whell_btn a {
+        width: 120px;
+        height: 120px;
+        font-size: 17px;
+        top: 30%;
+        right: -1%;
+    }
+
+    .spain_wheel .spain_wheel_box::before {
+        right: -30px;
+        top: -52px;
+    }
+
+    .spain_wheel_box::after {
+        background-size: 100%;
+        background-repeat: no-repeat;
+        width: 340px;
+    }
+
+    .spain_img {
+        max-width: 320px;
+    }
+
+    .spain_img::after {
+        bottom: 28%;
+        background-size: 85%;
+        background-repeat: no-repeat;
+    }
+
+    .gewinnspiel_text_section {
+        padding: 110px 20px 0px 20px;
+        max-height: 414px;
+    }
+
+    .gewinnspiel_text h5 {
+        padding: 15px 0px 10px 0px;
+    }
+
+    .gewinnspiel_leyer_1 {
+        padding: 50px 20px;
+    }
+
+    .analyse_list ul li {
+        font-size: 16px;
+    }
+
+    .mit_img {
+        max-width: 450px;
+    }
+
+    .small_round_shape {
+        width: 75px;
+        height: 75px;
+    }
+
+    .big_round_shape {
+        width: 300px;
+        height: 300px;
+        bottom: -39px;
+        right: -8px;
+    }
+
+    .gewusst_wrap_card {
+        flex-wrap: wrap;
+        /* justify-content: unset; */
+    }
+
+    .product_row_text {
+        text-align: center;
+    }
+
+    .product_star {
+        display: flex;
+        justify-content: center;
+    }
+
+    .mobile_product_img img {
+        max-height: 240px;
+    }
+
+    .mobile_product_img::before {
+        width: 84%;
+        height: 20%;
+        left: 35px;
+        top: 50px;
+    }
+
+    .food_img {
+        position: unset;
+        right: 1%;
+        top: 15%;
+    }
+
+    .product_title h3 {
+        margin: 13px 0px 10px 0;
+    }
+
+    button.accordion-button.collapsed {
+        padding: 17px 25px 17px 0px;
+    }
+
+    .accordion-button::after {
+        right: -2.4%;
+        background-size: 22px;
+    }
+
+    .accordion-body {
+        padding: 15px 0px 30px 30px;
+        /* margin-bottom: 4px; */
+    }
+
+    .accordion-body::after {
+        bottom: -19px;
+        height: 70px;
+    }
+
+    .vereinbaren_text {
+        padding-left: 0px;
+    }
+
+    .footer_fitmotion h2 {
+        font-size: 103px;
+        margin: 0px 0px -38px -21px;
+    }
+
+    .Kontakt_text,
+    .time_days p,
+    .hours p {
+        font-size: 16px;
+    }
+
+    .icon_uns {
+        gap: 60px;
+    }
+
+    i.fa-brands.fa-square-facebook,
+    i.fa-brands.fa-instagram,
+    i.fa-brands.fa-twitter {
+        font-size: 30px;
+    }
+
+    .imprint_text {
+        font-size: 16px;
+    }
+
+    .call_location_section {
+        display: none;
+    }
+}
+
+@media (max-width:450px) {
+    button.gewinnspiel_btn.btn-form-submit, button.online_btn.btn-form-submit, button.mit_btn.btn-form-submit,
+    button.beratungstermin_btn.btn-form-submit,button.we_fit.btn-form-submit,button.gesundheit_button.btn-form-submit,.gesundheit_btn {
+        width: 100%;
+        height: 50px;
+        font-size: 16px;
+        margin: 0 auto;
+        z-index: 30;
+    }
+    .header_block {
+        padding-top: 2px;
+    }
+
+    .menu_trigger_block {
+        top: 29px;
+        right: 2%;
+    }
+
+    .slick-track {
+        height: 655px;
+    }
+
+    .menu_toggle {
+        top: -15px;
+    }
+
+    button.menu_finbyz-button {
+        max-width: 100%;
+        height: 55px;
+        padding-top: 4px;
+    }
+
+    .mobile_logo_img {
+        width: 140px;
+        height: 46px;
+    }
+
+    .nav_ul li::after {
+        top: 9px;
+        left: -22px;
+        width: 20px;
+        height: 20px;
+    }
+
+    .nav_ul li a {
+        font-size: 25px;
+    }
+
+    .silder_box {
+        max-width: 350px;
+        height: 455px;
+        margin: 100px auto 0px;
+    }
+
+    button.slider_finbyz-button {
+        font-size: 19px;
+        max-width: unset;
+        width: 100%;
+        height: 51px;
+    }
+
+    .side_silde_img3 {
+        max-width: 44px;
+        bottom: 16%;
+        right: 23%;
+    }
+
+    .slider_btn {
+        left: 0px;
+        right: 0px;
+        bottom: -275%;
+    }
+
+    a.btn_border {
+        width: 100%;
+    }
+
+    .silde_1,
+    .silde_2,
+    .silde_3,
+    .silde_4 {
+        max-height: 660px;
+    }
+
+    .center_banner_text h1 {
+        font-size: 41px;
+    }
+
+    i.fa-solid.fa-arrow-left.slick-arrow {
+        top: 76%;
+        left: 40%;
+        font-size: 16px;
+    }
+
+    i.fa-solid.fa-arrow-right.slick-arrow {
+        top: 76%;
+        right: 40%;
+        font-size: 16px;
+    }
+
+    button.gesundheit_button {
+        width: 344px;
+        height: 50px;
+        font-size: 16px;
+    }
+
+    .banner_bg_img {
+        bottom: 110px;
+        right: -16%;
+    }
+
+    .img_round_border {
+        max-width: 340px;
+    }
+
+    i.fa-solid.fa-arrow-left,
+    i.fa-solid.fa-arrow-right {
+        margin-right: 0px;
+        font-size: 19px;
+        padding: 7px 8px 7px 8px;
+    }
+
+    #leistungen_slider button.owl-prev {
+        top: 40%;
+    }
+
+    #leistungen_slider button.owl-next {
+        top: 40%;
+        right: -1%;
+    }
+    .Leistungen_wrapper {
+        padding: 20px 0px 25px;
+    }
+    .das_slider {
+        padding-top: 45px;
+    }
+
+    div#counter {
+        left: 4.6%;
+        top: 25%;
+        font-size: 23px;
+    }
+
+    span.das_sagen_arrow i.fa-solid.fa-arrow-left {
+        font-size: 19px;
+        padding: 7px 8px 7px 8px;
+    }
+
+    .das_slider_text p {
+        font-size: 16px;
+    }
+
+    a.btn_border,
+    button.das_unsere.btn-form-submit {
+        width: 100%;
+    }
+
+    button.das_unsere.btn-form-submit,
+    button.gesundheit_button {
+        border: 2px solid #3b3b3b;
+    }
+
+    button.das_sagen {
+        width: 360px;
+        height: 50px;
+        font-size: 16px;
+    }
+
+    .wiefit_background {
+        width: 320px;
+        height: 320px;
+        margin: 82px auto 0px auto;
+    }
+
+    .wiefit_man_img {
+        width: 273px;
+        top: 20%;
+    }
+
+    .sind_sie_title {
+        left: 22%;
+    }
+
+    .wiefit_man_wrapper {
+        min-height: 340px;
+    }
+
+    button.we_fit.btn-form-submit,
+    button.das_sagen {
+        margin: 0 auto;
+        border: 2px solid #ffffff;
+    }
+
+    .sind_sie_title div {
+        margin: 8px auto;
+        width: 122px;
+    }
+
+    .spain_img {
+        max-width: 290px;
+    }
+
+    .spain_wheel_box::after {
+        background-size: 100%;
+        background-repeat: no-repeat;
+        width: 310px;
+    }
+
+    .whell_btn a {
+        width: 120px;
+        height: 120px;
+        font-size: 17px;
+        top: 14%;
+        right: -4%;
+    }
+
+    .spain_img::after {
+        bottom: 35%;
+        background-size: 60%;
+    }
+
+    button.gewinnspiel_btn.btn-form-submit {
+        border: 2px solid #3b3b3b;
+    }
+
+    .gewinnspiel_text h5 {
+        padding: 0px 0px 10px 0px;
+        margin-top: -40px;
+    }
+
+    .gewinnspiel_text h6 {
+        padding-bottom: 20px;
+    }
+
+    .gewinnspiel_leyer_1 {
+        height: 69%;
+    }
+
+    .spain_wheel .spain_wheel_box::before {
+        right: -5px;
+    }
+
+    .whell_btn a {
+        width: 120px;
+        height: 120px;
+        font-size: 17px;
+        top: 29%;
+        right: -2%;
+    }
+
+    .online_analyse_text {
+        padding-top: 30px;
+    }
+
+    .mit_text,
+    .italic_text {
+        font-size: 19px;
+    }
+
+    .product_menu_text {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .food_img {
+        position: unset;
+    }
+
+    .gewusst_wrap_card {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .product_menu_text {
+        padding: 20px 0px 0px 0px;
+    }
+
+    .mobile_product_img::before {
+        border: none;
+    }
+
+    .mobile_product_img img {
+        max-height: 180px;
+    }
+
+    .accordion-button::after {
+        right: -3.4%;
+        background-size: 20px;
+    }
+
+    .accordion-button:not(.collapsed)::after {
+        right: 0.8%;
+        background-size: 22px;
+    }
+
+    .gestellte_title h2 {
+        text-align: center;
+    }
+
+    button.beratungstermin_btn {
+        border: 2px solid #3b3b3b;
+    }
+
+    button.beratungstermin_btn.btn-form-submit {
+        width: 100%;
+        height: 48px;
+    }
+
+    .footer_fitmotion h2 {
+        font-size: 81px;
+        margin: 0px 0px -25px -21px;
+    }
+
+    .footer_box {
+        padding: 0px 0 50px;
+    }
+
+    .powered_text_1 {
+        font-size: 14px;
+    }
+
+    .imprint_text {
+        font-size: 14px;
+    }
+
+    .footer_copyright {
+        padding: 30px 0px 45px;
+    }
+
+    .footer_option {
+        display: block;
+        transition: all 0.5s ease-in-out;
+    }
+}
+
+@media (max-width: 367px) {
+    .slick-track {
+        height: 610px;
+    }
+    .toggle{
+        top: -10px;
+    }
+    /* .toggle.active.menu-close {
+        right: 0px;
+    } */
+
+    .silde_bg_person_img_3 img {
+        max-width: 85%;
+        right: 12%;
+        top: 74%;
+    }
+
+    .side_silde_img4,
+    .side_silde_img7,
+    .side_silde_img10 {
+        max-width: 52px;
+        left: -2%;
+        bottom: 18%;
+    }
+
+    .side_silde_img6,
+    .side_silde_img9,
+    .side_silde_img12 {
+        max-width: 55px;
+        right: 30px;
+        bottom: 17%;
+    }
+
+    .side_silde_img5,
+    .side_silde_img8,
+    .side_silde_img11 {
+        max-width: 45px;
+        right: 1%;
+        top: 5%;
+    }
+
+    .silde_1,
+    .silde_2,
+    .silde_3,
+    .silde_4 {
+        max-height: 615px;
+    }
+
+    .silder_box {
+        max-width: 305px;
+        height: 404px;
+        margin: 100px auto 0px;
+    }
+
+    .center_banner_text h1 {
+        font-size: 37px;
+    }
+
+    .logo_header {
+        max-width: 130px;
+        padding-left: 0px;
+    }
+
+    .menu_trigger_block {
+        top: 27px;
+        right: 0%;
+    }
+    .slider_btn {
+        bottom: -275%;
+    }
+
+    i.fa-solid.fa-arrow-left.slick-arrow {
+        top: 74.2%;
+        left: 39%;
+        font-size: 16px;
+        padding: 6px 7px 6px 7px;
+    }
+
+    i.fa-solid.fa-arrow-right.slick-arrow {
+        top: 74.2%;
+        right: 39%;
+        font-size: 16px;
+        padding: 6px 7px 6px 7px;
+    }
+
+    .banner_title2 h2 {
+        font-size: 35px;
+        width: 100%;
+    }
+
+    .banner_small_title_1 p {
+        width: 87%;
+    }
+
+    .banner_bg_img {
+        bottom: 110px;
+        right: -16%;
+        width: 100px;
+    }
+
+    button.gesundheit_button {
+        width: 297px;
+        height: 50px;
+        font-size: 16px;
+    }
+
+    .img_round_border {
+        max-width: 280px;
+    }
+
+    .slider_title_text h3 {
+        font-size: 21px;
+    }
+
+    .slider_underline_text a {
+        font-size: 16px;
+    }
+
+    ion-icon.md.hydrated {
+        font-size: 19px;
+        padding-left: 7px;
+    }
+
+    .slider_box_text {
+        margin: 0 auto;
+        width: 215px;
+    }
+
+    #leistungen_slider button.owl-prev button.owl-next {
+        top: 41%;
+    }
+
+    .der_name_title p {
+        font-size: 16px;
+    }
+
+    .das_sagen_text h2 {
+        font-size: 110px;
+    }
+
+    .das_sagen_text h3 {
+        font-size: 25px;
+        padding-top: 15px;
+    }
+
+    div#counter {
+        left: 33.6%;
+        top: 23%;
+        font-size: 22px;
+    }
+
+    .das_sagen_slider .owl-carousel .owl-dots.disabled,
+    .owl-carousel .owl-nav.disabled {
+        display: flex;
+        position: absolute;
+        top: 30%;
+        left: -4%;
+    }
+
+    .das_sagen_slider button.owl-next {
+        position: absolute;
+        right: -16%;
+        top: 0%;
+    }
+
+    button.das_sagen {
+        width: 311px;
+        height: 50px;
+        font-size: 16px;
+        border: 2px solid #3b3b3b;
+    }
+
+    .wiefit_background {
+        width: 300px;
+        height: 300px;
+    }
+
+    button.we_fit.btn-form-submit,
+    button.das_sagen,
+    button.online_btn.btn-form-submit,
+    button.mit_btn.btn-form-submit {
+        border: 2px solid;
+    }
+    .right_arrow_black, .right_arrow_white {
+        width: 19.62px;
+        height: 18.238px;
+        right: 15px;
+    }
+    .wiefit_man_wrapper {
+        min-height: 315px;
+    }
+
+    .sind_sie_title {
+        left: 15%;
+    }
+
+    .gewinnspiel_leyer_1 {
+        height: 65%;
+    }
+
+    .spain_img {
+        max-width: 229px;
+    }
+
+    .spain_wheel_box::after {
+        background-size: 100%;
+        background-repeat: no-repeat;
+        width: 250px;
+        top: -21px;
+        left: -11px;
+    }
+
+    .spain_img::after {
+        bottom: -36%;
+        background-size: 50%;
+    }
+
+    .whell_btn a {
+        width: 100px;
+        height: 100px;
+        font-size: 16px;
+        top: 26%;
+        right: 0%;
+    }
+
+    .gewinnspiel_mobile {
+        margin-bottom: 70px;
+    }
+
+    .gewinnspiel_text h5,
+    .gewinnspiel_text h6 {
+        font-size: 16px;
+    }
+
+    .gewinnspiel_text h5 {
+        margin-top: -70px;
+    }
+
+    .gewinnspiel_text_section {
+        padding: 110px 10px 0px 10px;
+        max-height: 414px;
+    }
+
+    button.gewinnspiel_btn.btn-form-submit {
+        width: 100%;
+        border: 2px solid #3b3b3b;
+    }
+
+    .big_round_shape {
+        width: 200px;
+        height: 200px;
+    }
+
+    .small_round_shape {
+        width: 60px;
+        height: 60px;
+        top: -15px;
+        left: 42px;
+    }
+
+    .big_round_shape {
+        width: 200px;
+        height: 200px;
+        bottom: -20px;
+        right: -6px;
+    }
+
+    .mit_img {
+        max-width: 450px;
+        padding-right: 25px;
+    }
+
+    .mit_text,
+    .italic_text {
+        font-size: 16px;
+    }
+
+    .big_text {
+        font-size: 50px;
+    }
+
+    .product_btn {
+        max-width: unset;
+        width: 200px;
+        height: 44px;
+        padding: 9px 10px;
+    }
+
+    .product_btn_text {
+        font-size: 16px;
+    }
+
+    .product_title h3 {
+        font-size: 17px;
+    }
+
+    .product_star span {
+        font-size: 17px;
+    }
+
+    .strok_title,
+    .gewusst_title {
+        left: 22px;
+    }
+
+    button.accordion-button.collapsed h3 {
+        font-size: 16px;
+    }
+
+    .accordion-body {
+        padding: 15px 0px 30px 15px;
+    }
+
+    button.accordion-button.collapsed {
+        padding: 15px 25px 15px 0px;
+    }
+
+    .mobile_text2 {
+        font-size: 16px;
+    }
+
+    .beratungstermin_block.owl-theme .owl-nav [class*=owl-] {
+        width: 39px;
+        height: 39px;
+    }
+
+    .beratungstermin_block.owl-theme button.owl-next {
+        border-radius: 0px 10px 10px 0px;
+        vertical-align: middle;
+    }
+
+    .beratungstermin_block.owl-theme button.owl-prev {
+        border-radius: 10px 0px 0px 10px;
+    }
+
+    button.owl-next svg {
+        width: 24px;
+        height: 22px;
+    }
+
+    button.owl-prev svg {
+        width: 24px;
+        height: 22px;
+    }
+
+    .footer_fitmotion h2 {
+        font-size: 18vw;
+        margin: 0px 0px -18px -13px;
+    }
+
+    .powered_by {
+        flex-wrap: wrap;
+    }
+
+    .footer_option.show {
+        height: 75px;
+    }
+
+    .footer_open_arrow {
+        top: -14px;
+    }
+
+    .footer_open_arrow.active {
+        left: 47.6%;
+    }
+
+    .footer_option ul li a img {
+        width: 25px;
+        height: 25px;
+        margin-bottom: 3px;
+    }
+
+    .footer_option span {
+        display: block;
+        font-size: 14px;
+    }
+}
